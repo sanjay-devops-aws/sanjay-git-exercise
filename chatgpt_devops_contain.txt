@@ -1,0 +1,23 @@
+DevOps Automation with ChatGPT
+
+1) Write a Dockerfile for nodejs application.
+2) Explain exactly what WORKDIR directive means in dockerfile.
+3) Use yarn instead of dockerfile.
+4) now only copy relevant application files, not everything to the app image.
+5) use multi-stage build
+6) adjust the multi-stage build to use yarn, exclude app files from dockerignore file when copying them into docker image and provide docker command example with a specific iamge tag of 1.0
+7) create a k8s deployment manifest file for ths docker images
+8) adjust deployment manifest with production adn security best practices
+9) is seems like some best practices are missing.so please adjust deployment file 
+properly with production and security best practices, without explanation, just provide the example manifest file
+10) on top of those new configuration options, also add securityContext configuration in the deployment file
+11) now write a jenkinfile for the complete CI/CD pipeline for the above nodejs application, including deployment to k8s cluster
+12) now adjust the jenkinfile to have 1 stage for building and pushing the docker image and  logging in to the dockerHub private repository
+in the final stage, apply deployment and service files to the k8s cluster, but keep the KUBE_CONFIG parameter
+13) keep the build and test stages as they were initially, but create a separate stage for building a docker image and pushing to docker repository, but before pushing image, make sure to log in to the docker repository first.
+14 ) add deploy to kubernetes stage as in the previous example. also read the DOCKER_HUB_USERNAEM as a credential, just like the DOCKER_HUB_PASSWORD, but 
+call then DOCKER_USER and DOCKER_PWD respectively and also use the credentials function instead of withCredentials to read both of these values.
+15) add a stage to notify team through slack channel about the build status
+16 ) slack notification should be sent either for failure ro success and should always execute after the build is finished as the last step
+17) continue with your response
+18) give me a Gitlab CI equivalent of this Jenkinfile:
