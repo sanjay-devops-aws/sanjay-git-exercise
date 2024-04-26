@@ -1,0 +1,36 @@
+# If you want to remove the file from the Git repository and the filesystem, use:
+
+    git rm file1.txt
+    git commit -m "remove file1.txt"
+
+# But if you want to remove the file only from the Git repository and not remove it from the filesystem, use:
+
+    git rm --cached file1.txt
+    git commit -m "remove file1.txt"
+    And to push changes to remote repo
+
+    git push origin branch_name
+
+
+# First, it's always worth noting that git reset --hard is a potentially dangerous command, since it throws away all your uncommitted changes.
+
+# I know that Git tracks changes I make to my application, and holds on to them until I commit the changes.
+
+# To revert to a previous commit, I used:
+
+    git reset --hard HEAD
+
+    HEAD is now at 820f417 micro
+
+    git log
+    git reset --hard 1db601572ec269a0fb4e9545b01e6dc857cc032e 
+    git pull origin branch_name
+    git push origin branch_name
+
+
+# reset is the command we use when we want to move the repository back to a previous commit, discarding any changes made after that commit
+
+    git restore --staged example.txt
+    git reset  (at time all untracked files)
+
+
