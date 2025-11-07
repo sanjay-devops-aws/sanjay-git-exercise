@@ -14,6 +14,56 @@ click on Join meeting button -- what did I miss?
 4) what decisions were made? 
 5) help me prepare for my next meeting? 
 
+Email:
+
+1) Please write an email asking for leave
+2) I need to take leave tomorrow for a medical appointment and will be away for half the day.   (Context)
+Could you write an email requesting for leave?                                                  (Instruction)
+Since it is a professional email please keep it short and courteous                             (contraint)
+
+
+
+File format: 
+
+1) In what format can i store data?
+2) How do I get data from a store?
+3) Please generate some data for employees
+
+Python:
+
+1) Our team is planning a project in python and we need to use an IDE that makes if easier for us to prototype our code. The IDE should not be platform dependent.
+Could you recommend an IDE for this use case?
+
+2) I need to store some structured data using the file system. the data is in the form of records and should be easily read into a python or java program.
+What format can I use to to store such data?
+
+3) 
+
+
+SQL:
+
+1) I need to retrieve data from a MySQL database, I need all the fields in the data and the table is called "Reports". How can I retrieve this data using a SQL query?
+2) I need some test data for emaployees to load into my database table. Each employee record should have the following information name, title, department, salary, and years in posstion.
+
+example
+John Doe, Manager, Sales, 70000, 4
+Jane Smith, Engineer, Data Science, 150000, 2
+
+Please generate 10 records in the CSV format.
+
+ 
+General: 
+
+1) Our office is celebrating learning  with a series of sessions with famous educators and technology specialiasts. Could you please write a tweet celebrating "Wellness Week at Skillsoft"
+with the appropriate hashtags.
+
+
+
+
+
+
+
+
 
 
 
