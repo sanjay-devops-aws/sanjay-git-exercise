@@ -64,6 +64,12 @@ with the appropriate hashtags.
 
 2) Please review the first of the Harry Potter books - Harry Potter and the Philosopher's Stone
 
+3) create a C# program that determines whether a user entered number is a prime number 
+
+4) write inline documentation in this code
+
+5) 
+
 
 
 
