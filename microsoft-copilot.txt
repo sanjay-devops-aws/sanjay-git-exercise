@@ -37,7 +37,12 @@ Could you recommend an IDE for this use case?
 2) I need to store some structured data using the file system. the data is in the form of records and should be easily read into a python or java program.
 What format can I use to to store such data?
 
-3) 
+3) I need to write a function to sum up the elements in a list using python. could you please write a function for this?   (context+Instruction)
+The function should have the following signature compute_sum(input_elements)                                               (Input data)
+Please use meaningful variable names and do not use the build-in sum function                                              (Output data + positive constraint)
+
+4) As a programming instructor please explain the collection API in java to a beginner learning to code in Java.
+
 
 
 SQL:
@@ -57,7 +62,7 @@ General:
 1) Our office is celebrating learning  with a series of sessions with famous educators and technology specialiasts. Could you please write a tweet celebrating "Wellness Week at Skillsoft"
 with the appropriate hashtags.
 
-2) 
+2) Please review the first of the Harry Potter books - Harry Potter and the Philosopher's Stone
 
 
 
