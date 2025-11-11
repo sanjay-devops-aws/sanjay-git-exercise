@@ -68,9 +68,28 @@ with the appropriate hashtags.
 
 4) write inline documentation in this code
 
-5) 
+5) show me a sample dialogue between gemini and an online store customer that demonstrates how gemini can triage customer support issues
 
 
+Ansible:
+
+1) How do I install ansible on Ubuntu Linux
+2) Write a simple ansible Playbook for a starter devops pipeline
+3) 
+
+Jenkins:
+
+1) How can I integrate ChatGPT with Jenkins to manage, update and automate documentation?
+
+2) Show me an example of a Jenkins script that integrates chatgpt to update documentation in a repository.
+
+3) 
+
+Docker:
+
+1)  Explain the YAML configuration files used with Docker
+2) Rewrite you example with inline documentation
+3) what are some good online references for configuring docker?
 
 
 
