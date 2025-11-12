@@ -43,6 +43,8 @@ Please use meaningful variable names and do not use the build-in sum function   
 
 4) As a programming instructor please explain the collection API in java to a beginner learning to code in Java.
 
+5) This code translate to python
+
 
 
 SQL:
@@ -50,12 +52,14 @@ SQL:
 1) I need to retrieve data from a MySQL database, I need all the fields in the data and the table is called "Reports". How can I retrieve this data using a SQL query?
 2) I need some test data for emaployees to load into my database table. Each employee record should have the following information name, title, department, salary, and years in posstion.
 
+
 example
 John Doe, Manager, Sales, 70000, 4
 Jane Smith, Engineer, Data Science, 150000, 2
 
 Please generate 10 records in the CSV format.
 
+3) What are the steps to implementing SQL server in Google Cloud Platform?
  
 General: 
 
@@ -83,7 +87,7 @@ Jenkins:
 
 2) Show me an example of a Jenkins script that integrates chatgpt to update documentation in a repository.
 
-3) 
+3) How could i integrate Jenkins with and AI tool to perform code reviews?
 
 Docker:
 
@@ -94,7 +98,7 @@ Docker:
 
 
 
-
+r p sigh class - foregion,  
 
 
 
