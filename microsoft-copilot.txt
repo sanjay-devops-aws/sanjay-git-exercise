@@ -44,6 +44,7 @@ Please use meaningful variable names and do not use the build-in sum function   
 4) As a programming instructor please explain the collection API in java to a beginner learning to code in Java.
 
 5) This code translate to python
+6) The calculate_average function the test. can you explain why and how to fix it.
 
 
 
