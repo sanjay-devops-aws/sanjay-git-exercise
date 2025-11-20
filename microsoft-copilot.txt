@@ -96,6 +96,9 @@ Docker:
 2) Rewrite you example with inline documentation
 3) what are some good online references for configuring docker?
 
+Azure-DevOps:
+
+1) Generate an Azure DevOps YAML pipeline for a Node.js app with build, test, and deploy stages to AKS using Docker.
 
 
 
