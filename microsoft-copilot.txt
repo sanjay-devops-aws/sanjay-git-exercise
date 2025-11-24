@@ -74,6 +74,10 @@ with the appropriate hashtags.
 4) write inline documentation in this code
 
 5) show me a sample dialogue between gemini and an online store customer that demonstrates how gemini can triage customer support issues
+6) Create a website for a restaurant which contains the json of the menu. A user scans the qr code and thought the internet sees the menu and orders food from that restaurant. order is delivered and can be seen thought the dashboard by the restaurant order. 
+
+7) Create me slides to teach basic html to complete websites beginners.
+
 
 
 Ansible:
@@ -100,7 +104,7 @@ Azure-DevOps:
 
 1) Generate an Azure DevOps YAML pipeline for a Node.js app with build, test, and deploy stages to AKS using Docker.
 
-
+2) AKS cluster experiencing frequent pod restart,kubernets reliability engineer. Generate Root Cause Analysis and remediation steps.Table with root cause, fix and preventive measures.(Context Role Action Format Tone - Prompt)
 
 r p sigh class - foregion,  
 
