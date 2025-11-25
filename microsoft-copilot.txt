@@ -13,6 +13,7 @@ click on Join meeting button -- what did I miss?
 3) hightlight from the past 7 days
 4) what decisions were made? 
 5) help me prepare for my next meeting? 
+6) Generate an email reminder for a team meeting: "Hi Team, Just a reminder about our meeting tomorrow at 3 pm. Let me know if you have any question.."
 
 Email:
 
