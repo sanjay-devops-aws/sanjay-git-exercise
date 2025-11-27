@@ -1,5 +1,10 @@
+========
 https://learn.microsoft.com/en-us/viva/learning/academy-copilot
+LLM, RAG, MCP, Types of Prompt, GitHub Copilot
 
+Terraform MCP Server + Claude AI
+
+========
 Team:
 
 Join the meeting late aks copilot 
@@ -107,6 +112,9 @@ Azure-DevOps:
 
 2) AKS cluster experiencing frequent pod restart,kubernets reliability engineer. Generate Root Cause Analysis and remediation steps.Table with root cause, fix and preventive measures.(Context Role Action Format Tone - Prompt)
 
+
+
+MCP-Kubernets: 
 
 
 
