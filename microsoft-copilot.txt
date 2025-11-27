@@ -107,7 +107,7 @@ Azure-DevOps:
 
 2) AKS cluster experiencing frequent pod restart,kubernets reliability engineer. Generate Root Cause Analysis and remediation steps.Table with root cause, fix and preventive measures.(Context Role Action Format Tone - Prompt)
 
-r p sigh class - foregion,  
+
 
 
 
