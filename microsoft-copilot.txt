@@ -19,7 +19,10 @@ click on Join meeting button -- what did I miss?
 4) what decisions were made? 
 5) help me prepare for my next meeting? 
 6) Generate an email reminder for a team meeting: "Hi Team, Just a reminder about our meeting tomorrow at 3 pm. Let me know if you have any question.."
-7) Invite Sean to a meeting to discuss the SmartOffice Budget
+7) Find time to meet with Sean next week about the SmartOffice budget
+8) Invite Sean to a meeting to discuss the SmartOffice Budget
+9) Schedule a meeting to follow up on this email
+10) Schedule out of office for June 1-15
 
 Email:
 
